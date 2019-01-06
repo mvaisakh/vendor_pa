@@ -1,0 +1,20 @@
+[
+  {
+    "remote":      "github",
+    "repository":  "mvaisakh/kernel-msm",
+    "target_path": "kernel/motorola/msm8937",
+    "revision":    "upstream"
+  },
+  {
+    "remote":     "github",
+    "repository": "PixelExperience/packages_resources_MotoActions",
+    "target_path": "packages/resources/MotoActions",
+    "revision":   "pie"
+  },
+  {
+    "remote":     "github",
+    "repository": "sohamlad7/android_vendor_motorola_cedric",
+    "target_path": "vendor/motorola/cedric",
+    "revision":    "lineage-16.0"
+  }
+]
